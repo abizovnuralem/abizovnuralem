@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Nuralem Abizov
 - 🔭 I’m currently working on modern SLAM 
-- 👯 I’m looking to collaborate on GO2 unitree ROS2 SDK
 - 📫 How to reach me: abizov94@gmail.com
