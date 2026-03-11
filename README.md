@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Nuralem Abizov
 - 🔭 I’m currently working on modern SLAM, RL in Robotics 
 - 📫 How to reach me: abizov94@gmail.com
+- https://frontier-labs.org/
